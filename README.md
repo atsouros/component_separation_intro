@@ -11,3 +11,9 @@ https://arxiv.org/abs/2102.03160
 https://arxiv.org/abs/2006.06298
 
 You don't need to read them to the core. They are just to get the general idea. As time goes by, you'll revisit them and get acquinted with the ideas a little better. 
+
+The main questions you should be abe to understand and answer are: 
+
+a) What's the motivation in using Scattering Transforms? 
+b) How can they be used in order to generate new maps? 
+c) How can they be used in order to seperate components in a situation where I have data d = s + c. 
