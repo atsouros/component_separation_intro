@@ -4,7 +4,7 @@ Then, you might want to look at these videos
 
 https://www.youtube.com/watch?v=ZQoSwVt0TTQ
 
-https://www.youtube.com/watch?v=R5hSqeLSQC0
+https://www.youtube.com/watch?v=R5hSqeLSQC0 (this might get a bit advanced for the moment, perhaps keep it for after you've read the rest)
 
 and go through the following papers:
 
