@@ -8,6 +8,8 @@ https://www.youtube.com/watch?v=R5hSqeLSQC0
 
 and go through the following papers:
 
+https://arxiv.org/abs/2112.01288
+
 https://arxiv.org/abs/2306.17210
 
 https://arxiv.org/abs/2102.03160
