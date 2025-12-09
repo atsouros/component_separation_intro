@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=R5hSqeLSQC0 (this might get a bit advanced for t
 
 and go through the following papers:
 
-https://arxiv.org/abs/2112.01288
+https://arxiv.org/abs/2112.01288 (I would put emphasis on this paper, as it introduces most things about ST. The rest are applications to texture generation (synthesis) and component separation)
 
 https://arxiv.org/abs/2306.17210
 
@@ -16,7 +16,7 @@ https://arxiv.org/abs/2102.03160
 
 https://arxiv.org/abs/2006.06298
 
-You don't need to read them to the core. They are just to get the general idea. As time goes by, you'll revisit them and get acquinted with the ideas a little better. 
+You don't need to read them to the core. They are just to get the general idea. As time goes by, you'll revisit them and get acquinted with the ideas a little better. Perhaps the Erwan's presentation, the first paper and a bit through the rest to get a general idea of applications).
 
 The main questions you should be abe to understand and answer are: 
 
